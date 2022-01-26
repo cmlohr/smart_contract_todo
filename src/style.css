@@ -16,3 +16,6 @@ ul {
     color: grey;
     text-decoration: line-through;
 }
+#navbar {
+    background-color: rgb(174, 5, 253) !important;
+}
